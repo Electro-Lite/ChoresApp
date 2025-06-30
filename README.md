@@ -25,7 +25,9 @@ A simple Java application for managing household chores—keeping track of tasks
 ---
 
 ## Images
-![UI](screenshots/overview)
+![UI](screenshots/overview.png)
+![UI](screenshots/manage.png)
+![UI](screenshots/edit.png)
 ---
 
 
