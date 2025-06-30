@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dkl.example","l":"utils.Utilities"},{"p":"dkl.example","l":"utils"}];updateSearchResults();

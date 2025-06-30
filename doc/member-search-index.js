@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"dkl.example","c":"utils.Utilities","l":"isEven(long)"},{"p":"dkl.example","c":"utils.Utilities","l":"isPrime(long)"}];updateSearchResults();
